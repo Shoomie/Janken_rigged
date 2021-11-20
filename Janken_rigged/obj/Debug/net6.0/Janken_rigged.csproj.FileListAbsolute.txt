@@ -1,0 +1,14 @@
+D:\Programmering\C#\Janken_rigged\Janken_rigged\bin\Debug\net6.0\Janken_rigged.exe
+D:\Programmering\C#\Janken_rigged\Janken_rigged\bin\Debug\net6.0\Janken_rigged.deps.json
+D:\Programmering\C#\Janken_rigged\Janken_rigged\bin\Debug\net6.0\Janken_rigged.runtimeconfig.json
+D:\Programmering\C#\Janken_rigged\Janken_rigged\bin\Debug\net6.0\Janken_rigged.dll
+D:\Programmering\C#\Janken_rigged\Janken_rigged\bin\Debug\net6.0\ref\Janken_rigged.dll
+D:\Programmering\C#\Janken_rigged\Janken_rigged\bin\Debug\net6.0\Janken_rigged.pdb
+D:\Programmering\C#\Janken_rigged\Janken_rigged\obj\Debug\net6.0\Janken_rigged.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\C#\Janken_rigged\Janken_rigged\obj\Debug\net6.0\Janken_rigged.AssemblyInfoInputs.cache
+D:\Programmering\C#\Janken_rigged\Janken_rigged\obj\Debug\net6.0\Janken_rigged.AssemblyInfo.cs
+D:\Programmering\C#\Janken_rigged\Janken_rigged\obj\Debug\net6.0\Janken_rigged.csproj.CoreCompileInputs.cache
+D:\Programmering\C#\Janken_rigged\Janken_rigged\obj\Debug\net6.0\Janken_rigged.dll
+D:\Programmering\C#\Janken_rigged\Janken_rigged\obj\Debug\net6.0\ref\Janken_rigged.dll
+D:\Programmering\C#\Janken_rigged\Janken_rigged\obj\Debug\net6.0\Janken_rigged.pdb
+D:\Programmering\C#\Janken_rigged\Janken_rigged\obj\Debug\net6.0\Janken_rigged.genruntimeconfig.cache
